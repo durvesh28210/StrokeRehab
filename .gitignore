@@ -1,2 +1,8 @@
 data/sourcedata/mat
 .DS_Store
+data/sourcedata
+myenv
+code
+data
+stimuli
+data/edffile
